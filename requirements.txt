@@ -70,7 +70,7 @@ pillow==10.3.0
     # via
     #   pdfplumber
     #   streamlit
-protobuf==5.29.2
+protobuf==3.20.3
     # via
     #   -r requirements.in
     #   streamlit
