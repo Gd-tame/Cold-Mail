@@ -26,6 +26,7 @@ click==8.1.7
     # via streamlit
 cryptography==42.0.5
     # via pdfminer-six
+google-generativeai==0.4.0
 gitdb==4.0.11
     # via gitpython
 gitpython==3.1.41
